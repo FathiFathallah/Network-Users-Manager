@@ -12,7 +12,7 @@
     • User Authentication: only upon successful login, users gain access to upload and download files securely from the server. a user would get files only uploaded by his/her side.<br>
     • Access Control: Users can be blocked based on their username and/or IP address. In such cases, the server promptly sends informative messages detailing the reasons for the block, enhancing transparency.<br>
 <br>
-  Apparatus: Python 3 | Python Modules to download: tkinter for GUI <br>
+  Apparatus: Python 3 | Python Modules to download: tkinter for GUI | Database with the Server (Change database info in dbConnection.py) <br>
 
 ![](1_Connecting_Peers.png)
 ![](2_Sending_Files_P2P.png)
