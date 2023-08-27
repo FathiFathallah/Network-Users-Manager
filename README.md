@@ -1,5 +1,5 @@
 # Network Users Manager
-<pre>
+
   User Management and Data Access Control System for Server Administration
   In this desktop application, we efficiently manage user access and data retrieval.
   Features:
@@ -13,7 +13,7 @@
     • Access Control: Users can be blocked based on their username and/or IP address. In such cases, the server promptly sends informative messages detailing the reasons for the block, enhancing transparency.
 
   Apparatus: Python 3 | Python Modules to download: tkinter for GUI 
-</pre>
+
 ![](1_Connecting_Peers.png)
 ![](2_Sending_Files_P2P.png)
 ![](3_Download_Received_File.png)
