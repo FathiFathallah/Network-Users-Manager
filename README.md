@@ -1,7 +1,7 @@
 # Network Users Manager
 
-  User Management and Data Access Control System for Server Administration
-  In this desktop application, we efficiently manage user access and data retrieval.
+  User Management and Data Access Control System for Server Administration<br>
+  In this desktop application, we efficiently manage user access and data retrieval.<br>
   Features:
     • User Management: Add, remove, update, and list users effortlessly. Maintain crucial user information such as userID, username, password, firstName, lastName, and status (blocked or active).
     • IP Blacklisting: Maintain a dynamic blacklist of IP addresses, preventing unauthorized access. Easily add or remove IP addresses from the blacklist to enhance security measures, similar to access lists.
