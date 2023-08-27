@@ -14,11 +14,6 @@
 <br>
   Apparatus: Python 3 | Python Modules to download: tkinter for GUI | Database with the Server (Change database info in dbConnection.py) <br>
 
-![](1_Connecting_Peers.png)
-![](2_Sending_Files_P2P.png)
-![](3_Download_Received_File.png)
-![](3_The_File_Downloaded_Without_Errors.png)
-![](4_Choose_Directory.png)
-![](4_Download_File_Already_Sent.png)
-![](4_The_File_Downloaded_Without_Errors.png)
-![](5_Heigh_Error_Rate_Warning.png)
+![](1-client.png)
+![](2-Server.png)
+![](3-download.png)
