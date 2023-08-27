@@ -1,13 +1,18 @@
-# Feillo
+# Network Users Manager
 <pre>
-Feilo
-  Created a live Chat messenger with file system Using UDP protocol for transmitting and receiving
-  messages/Files. Using Chunked transfer data with UDP.
-  Enhanced and error handling using: 
-      RDT 3.0 protocol with acknowledgement and timeouts.
-       Available Upon Request.
-  Tracking Online Users with TCP Protocol in addition to Multithreading.
-  Used Language: JAVA (IDE NetBeans 8.2) | Multithreading.
+  User Management and Data Access Control System for Server Administration
+  In this desktop application, we efficiently manage user access and data retrieval.
+  Features:
+    • User Management: Add, remove, update, and list users effortlessly. Maintain crucial user information such as userID, username, password, firstName, lastName, and status (blocked or active).
+    • IP Blacklisting: Maintain a dynamic blacklist of IP addresses, preventing unauthorized access. Easily add or remove IP addresses from the blacklist to enhance security measures, similar to access lists.
+    • File Control: Store user-specific files in a well-organized manner. Associate users with their respective files using the files table (userID, fileName). Actual file content is securely stored in the server's designated directory.
+    • Administrative Actions: Administer user actions directly from the server software interface. Block/unblock users by their usernames or IP addresses. When blocked, users are prevented from accessing the server, and detailed block reasons are conveyed via textual messages.
+  
+  User Scenario:
+    • User Authentication: only upon successful login, users gain access to upload and download files securely from the server. a user would get files only uploaded by his/her side.
+    • Access Control: Users can be blocked based on their username and/or IP address. In such cases, the server promptly sends informative messages detailing the reasons for the block, enhancing transparency.
+
+  Apparatus: Python 3 | Python Modules to download: tkinter for GUI 
 </pre>
 ![](1_Connecting_Peers.png)
 ![](2_Sending_Files_P2P.png)
