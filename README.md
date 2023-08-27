@@ -15,5 +15,5 @@
   Apparatus: Python 3 | Python Modules to download: tkinter for GUI | Database with the Server (Change database info in dbConnection.py) <br>
 
 ![](1-client.png)
-![](2-Server.png)
+![](2-ServerbeforeBlock.png)
 ![](3-download.png)
